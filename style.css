@@ -19,4 +19,20 @@ body{
 }
 .paragrafo{
     font-size: 25px;
+    overflow:auto;
+}
+
+img{
+    padding: 20px;
+    box-sizing: border-box;
+    width: 1000px;
+}
+table {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pudim{
+    text-align:center;
 }
